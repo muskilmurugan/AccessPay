@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 20.152 s <<< FAILURE! - in TestSuite
+feature(cucumberOptions.TestRunner)  Time elapsed: 18.495 s  <<< FAILURE!
+cucumber.runtime.CucumberException: org.junit.ComparisonFailure: My Store expected:<My store[]> but was:<My store[ opened sucessfully]>
+Caused by: org.junit.ComparisonFailure: My Store expected:<My store[]> but was:<My store[ opened sucessfully]>
+
